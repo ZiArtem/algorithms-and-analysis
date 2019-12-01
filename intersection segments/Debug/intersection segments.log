@@ -1,0 +1,7 @@
+﻿  main.cpp
+G:\учеба\visual studio\algorithms and analysis\intersection segments\AVLtree.h(253,7): warning C4101: parent: неиспользованная локальная переменная
+G:\учеба\visual studio\algorithms and analysis\intersection segments\intersect_metod.h(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\учеба\visual studio\algorithms and analysis\intersection segments\intersect_metod.h(47,21): warning C4018: <: несоответствие типов со знаком и без знака
+G:\учеба\visual studio\algorithms and analysis\intersection segments\intersect_metod.h(48,26): warning C4018: <: несоответствие типов со знаком и без знака
+G:\учеба\visual studio\algorithms and analysis\intersection segments\intersect_metod.h(95,21): warning C4018: <: несоответствие типов со знаком и без знака
+  intersection segments.vcxproj -> G:\учеба\visual studio\algorithms and analysis\intersection segments\Debug\intersection segments.exe
